@@ -1,0 +1,13 @@
+.rectangle-2{
+    background: red;
+    color: white;
+}
+
+.rectangle-2 ul{
+    text-align: right;
+    list-style: none;
+}
+
+.rectangle-2 li{
+    display: inline;
+}
